@@ -2,7 +2,6 @@ import React from 'react';
 import './styles/Navbar.css';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import InfoIcon from '@mui/icons-material/Info';
-import  mukesh from '../assets/mukesh.png';
 import Ellipse1 from '../assets/Ellipse1.png';
 
 
