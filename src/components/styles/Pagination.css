@@ -1,0 +1,38 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.pagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 4rem;
+    
+}
+  
+  
+
+  .pagination .btn {
+
+    width: 20px;
+    height: 20px;
+    color: white;
+    background-color: transparent;
+    margin-left: 30px;
+  }
+
+
+  .pageMove {
+    display: flex;
+    color: white;
+    background-color: transparent;
+  }
+
+
+
+.pageMove , ul ,i {
+    margin-top: 5px;
+    font-size: 6px;
+  }

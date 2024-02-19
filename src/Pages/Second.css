@@ -1,0 +1,28 @@
+.secondPages {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  
+  .navbar1 {
+    height: 10px;
+  }
+  
+  .dashBoards {
+    display: flex;
+    flex-direction: row;
+    margin-top: 6rem;
+    width: 100%;
+
+  }
+  
+  .firtsDashBoard {
+
+  }
+  
+  .secondDashBoard {
+
+
+    
+      
+     }

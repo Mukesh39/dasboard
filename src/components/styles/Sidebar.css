@@ -1,0 +1,118 @@
+
+* {
+    box-sizing: border-box;
+    margin: zero;
+}
+
+.sidebarContainer {
+    width: 250px;
+    padding: 20px;
+    height: 820px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border: 2px solid #D175B6;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    
+}
+
+.dropDown{
+    width: 260px;
+    height: 594px;
+    font-size: 20px;
+    color: white;
+}
+.toggle {
+    width: 16rem;
+    background-color: white;
+    color: black;
+    border-color: 2px #D175B6;
+
+}
+
+.toggle:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+.dropDown1 {
+    height: 12rem;
+    border-color: 2px #D175B6;
+    color: black;
+
+
+    
+}
+
+.dropDown2 {
+    height: 10rem;
+    border-color: 2px #D175B6;
+    color: black;
+}
+
+.dropDownmenu1 {
+    width: 14rem;
+    height: 10rem;
+    background-color: transparent;
+
+}
+
+
+.dropDownmenu1:hover {
+    background-color: white;
+    color: white;
+    color: black;
+}
+
+
+.dropDownmenu2:hover {
+    background-color: transparent;
+    color: white;
+}
+
+
+
+
+.dropDownmenu2 {
+    width: 14rem;
+    height: 7rem;
+    background-color: transparent;
+
+}
+.positions {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.contractors {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.profiles {
+    margin-top: 1rem;
+   
+    font-size: 20px;
+}
+
+
+.logoutButton {
+    margin-bottom: 0;
+    margin-top: 2rem;
+    color: white;
+}
+
+
+.btn {
+    width: 10rem;
+    border: #D175B6;
+    color: black;
+    border-color: #D175B6;
+    background-color: white;
+}

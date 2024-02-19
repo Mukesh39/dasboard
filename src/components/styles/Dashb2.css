@@ -1,0 +1,101 @@
+* {
+margin: 0;
+box-sizing: border-box;
+}
+
+
+
+.dash2 {
+    border: 2px solid #D175B6;
+    border-radius: 8px;
+   width: 67rem;
+    height: 820px;
+    margin-left: 10px;
+    margin-top: 2rem;
+
+}
+
+.sectionDb1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5px;
+    max-width: 100%;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+.sectionDb2 {
+    margin-top: 5px;
+    max-width: 100%;
+    padding-right: 20px;
+    
+}
+
+.eventTable ,table  , thead ,tbody{
+    max-width: 100%;
+    padding-right: 4px;
+    overflow-x: auto;
+    background-color: black;
+    color: white;
+    
+
+}
+
+
+.eventTable th ,td {
+    padding: 10px;
+    border-right:2px solid #D175B6 ;
+    border-top: 2px solid #D175B6;
+    border-bottom:2px solid #D175B6 ;
+    border-left: none;  
+    border-radius: 10px;
+    font-size: 12px;
+    max-width: 100%;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+}
+
+
+
+.seachbarDb1 {
+    display: flex;
+    flex-direction: row;
+    margin-left:10rem;
+    padding: 10px;
+    border: transparent;
+}
+
+
+
+input[type="search"] {
+    border: none;
+    /* Optionally, you can add other styles like background color, padding, etc. */
+}
+button {
+    border: 1px solid #D175B6;  
+    border-radius: 2px ;
+    font-size: 20px;
+}
+
+.searchBar {
+    border: 1px solid #D175B6;  
+}
+
+
+
+
+.pagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 100%;
+    font-size: 10px;
+}
+
+.table ,td {
+    background-color: black;
+    color: white;
+}
